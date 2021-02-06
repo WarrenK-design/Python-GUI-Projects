@@ -1,0 +1,47 @@
+[
+  {
+    "DateObserved": "2020-07-08 ",
+    "HourObserved": 11,
+    "LocalTimeZone": "EST",
+    "ReportingArea": "New York City Region",
+    "StateCode": "NY",
+    "Latitude": 40.8419,
+    "Longitude": -73.8359,
+    "ParameterName": "O3",
+    "AQI": 31,
+    "Category": {
+      "Number": 1,
+      "Name": "Good"
+    }
+  },
+  {
+    "DateObserved": "2020-07-08 ",
+    "HourObserved": 11,
+    "LocalTimeZone": "EST",
+    "ReportingArea": "New York City Region",
+    "StateCode": "NY",
+    "Latitude": 40.8419,
+    "Longitude": -73.8359,
+    "ParameterName": "PM2.5",
+    "AQI": 36,
+    "Category": {
+      "Number": 1,
+      "Name": "Good"
+    }
+  },
+  {
+    "DateObserved": "2020-07-08 ",
+    "HourObserved": 11,
+    "LocalTimeZone": "EST",
+    "ReportingArea": "New York City Region",
+    "StateCode": "NY",
+    "Latitude": 40.8419,
+    "Longitude": -73.8359,
+    "ParameterName": "PM10",
+    "AQI": 19,
+    "Category": {
+      "Number": 1,
+      "Name": "Good"
+    }
+  }
+]

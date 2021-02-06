@@ -1,0 +1,4 @@
+*/venv
+*/.idea
+*/address_book.db
+sudoku/sudoku.csv
